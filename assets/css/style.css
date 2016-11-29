@@ -4,6 +4,10 @@ body {
 	z-index: -100;
 }
 
+#title{
+	cursor: pointer;
+}
+
 #header-container {
 	width: 100%;
 /*	background-image: #7f501e;
@@ -175,6 +179,8 @@ body {
 .page-content #Gallery{
 /*	height: 120vh;
 */ 
+/*background-color: #f2dfa2;
+z-index: 100;*/
 }
 
 #Gallery .blurb {
