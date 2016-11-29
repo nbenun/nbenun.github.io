@@ -39,6 +39,7 @@ body {
 	-webkit-text-shadow: -1px 1px 1px black;
 	-moz-text-shadow: -1px 1px 1px black;
 	-ms-text-shadow: -1px 1px 1px black;
+	cursor: pointer;
 /*	border: 1px solid red;
 */}
 
